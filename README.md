@@ -1,2 +1,2 @@
 # python-basic
-programs of basic python
+ basic python program
